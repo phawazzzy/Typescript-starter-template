@@ -1,7 +1,7 @@
 {
-  "name": "image-repository",
+  "name": "typescript-starter-template",
   "version": "1.0.0",
-  "description": "Image repository",
+  "description": "A template to make it easy to get started with node typescript project",
   "main": "src/app.ts",
   "scripts": {
     "start": "node dist/src/app.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phawazzzy/image-repository.git"
+    "url": "git+https://github.com/phawazzzy/Typescript-starter-template.git"
   },
   "keywords": [
     "Image repository"
@@ -19,9 +19,9 @@
   "author": "Kareem fawas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/phawazzzy/image-repository/issues"
+    "url": "https://github.com/phawazzzy/Typescript-starter-template/issues"
   },
-  "homepage": "https://github.com/phawazzzy/image-repository#readme",
+  "homepage": "https://github.com/phawazzzy/Typescript-starter-template#readme",
   "dependencies": {
     "axios": "^0.21.3",
     "bcrypt": "^5.0.1",
