@@ -1,11 +1,11 @@
-### Auth Service
+### Typescript starter template
 
-- `npm install`
+-   `npm install`
 
-- Run test with `npm test`
+-   Run test with `npm test`
 
-- Run in dev mode `npm run dev`
+-   Run in dev mode `npm run dev`
 
-- Generate a build `npm run build`
+-   Generate a build `npm run build`
 
-- Start production code `npm start`
+-   Start production code `npm start`
