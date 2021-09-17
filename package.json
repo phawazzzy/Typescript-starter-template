@@ -1,7 +1,7 @@
 {
-  "name": "aufera-auths-service",
+  "name": "image-repository",
   "version": "1.0.0",
-  "description": "Authentication service for the aufera app",
+  "description": "Image repository",
   "main": "src/app.ts",
   "scripts": {
     "start": "node dist/src/app.js",
@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aufera/Aufera-auth-service.git"
+    "url": "git+https://github.com/phawazzzy/image-repository.git"
   },
   "keywords": [
     "Aufera",
     "Auth"
   ],
-  "author": "Aufera Technologies",
+  "author": "Kareem fawas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Aufera/Aufera-auth-service/issues"
+    "url": "https://github.com/phawazzzy/image-repository/issues"
   },
-  "homepage": "https://github.com/Aufera/Aufera-auth-service#readme",
+  "homepage": "https://github.com/phawazzzy/image-repository#readme",
   "dependencies": {
     "axios": "^0.21.3",
     "bcrypt": "^5.0.1",
